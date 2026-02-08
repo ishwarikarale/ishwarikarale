@@ -3,7 +3,6 @@ I'm a second year information technolgy engineering student passionate about ful
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on: [TFL Assesment]
 - 🌱 I’m learning: [C,C++,JAVA,Node JS,Python,SQL,HTML,CSS]
 - 📫 How to reach me: [www.linkedin.com/in/ishwari-karale]
 
